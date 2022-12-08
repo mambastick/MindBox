@@ -15,7 +15,7 @@
 
 <b>Решение:</b>
 
-[Библиотека](https://github.com/mambastick/MindBoxLib/blob/main/SquareCalculator.cs)
+[Библиотека](https://github.com/mambastick/MindBox/blob/main/MindBoxLib/SquareCalculator.cs)
 
 Ее использование:
 
