@@ -1,6 +1,6 @@
 ﻿using MindBoxLib;
 
-namespace MainProg
+namespace MindBoxTestProg
 {
     class Program
     {
@@ -8,13 +8,13 @@ namespace MainProg
         {
             try
             {
-                Circle circle = new Circle(5);
+                Circle circle = new Circle(4);
                 Triangle triangle = new Triangle(3, 4, 5);
 
                 Console.WriteLine("Площадь круга: " + circle.CalcSquare());
                 Console.WriteLine("Площадь треугольника: " + triangle.CalcSquare());
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
             }
