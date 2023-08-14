@@ -50,7 +50,7 @@ static void Main(string[] args)
 CREATE DATABASE MindBox;
 ```
 
-Затем две таблицы:
+Затем три таблицы:
 ```SQL
 CREATE TABLE `Categories` ( `id` INT(11) NOT NULL AUTO_INCREMENT , `Name` VARCHAR(30) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
 CREATE TABLE `Products` ( `id` INT(11) NOT NULL AUTO_INCREMENT , `Name` VARCHAR(30) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
