@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBox.Shapes", "MindBox.Shapes\MindBox.Shapes.csproj", "{1F10A5FA-F315-4EC1-8BF5-1718B53D7EA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBox.Tests", "MindBox.Tests\MindBox.Tests.csproj", "{86462389-78A3-4DB7-9197-2130F02B14E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBox.App", "MindBox.App\MindBox.App.csproj", "{96FBD02C-1B24-485C-83EA-B14AD7E72E89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F10A5FA-F315-4EC1-8BF5-1718B53D7EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F10A5FA-F315-4EC1-8BF5-1718B53D7EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F10A5FA-F315-4EC1-8BF5-1718B53D7EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F10A5FA-F315-4EC1-8BF5-1718B53D7EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86462389-78A3-4DB7-9197-2130F02B14E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86462389-78A3-4DB7-9197-2130F02B14E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86462389-78A3-4DB7-9197-2130F02B14E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86462389-78A3-4DB7-9197-2130F02B14E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96FBD02C-1B24-485C-83EA-B14AD7E72E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FBD02C-1B24-485C-83EA-B14AD7E72E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FBD02C-1B24-485C-83EA-B14AD7E72E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FBD02C-1B24-485C-83EA-B14AD7E72E89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
