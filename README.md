@@ -72,7 +72,7 @@ dotnet test
 Пример для квадрата:
 
 ```csharp
-using MindBox.Shapes.Abstractions;
+using MindBox.Shapes;
 
 public class Square : IShape
 {
